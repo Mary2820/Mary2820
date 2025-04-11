@@ -55,8 +55,7 @@ I love learning new technologies, especially those that can simplify my life or 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="mongodb" width="40" height="40"/>&nbsp;
   <img src="https://mybatis.org/images/mybatis-logo.png" title="MyBatis" alt="mybatis" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="JDBC" alt="jdbc" width="40" height="40"/>&nbsp;
-  <img src="https://www.mysql.com/common/logos/workbench-logo.svg" title="MySQL Workbench" alt="mysql workbench" width="40" height="40"/>&nbsp;</div>
-
+  <img src="https://raw.githubusercontent.com/valera-rozuvan/icons/master/png/mysql-workbench.png" title="MySQL Workbench" alt="mysql workbench" width="40" height="40"/>&nbsp;
 ---
 
 ### ✏️ Work with code:
