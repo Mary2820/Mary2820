@@ -42,7 +42,7 @@ I love learning new technologies, especially those that can simplify my life or 
   <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/charles_proxy_macos_bigsur_icon_190302.png" title="Charles Proxy" alt="charles-proxy" width="40" height="40"/>&nbsp;
   <img src="https://www.megaleechers.com/storage/Fiddler-Everywhere-Icon.png" title="Fiddler" alt="fiddler" width="40" height="40"/>&nbsp;
   <img src="https://pbs.twimg.com/profile_images/1589614420766126080/slAIVDtr_400x400.jpg" title="Proxyman" alt="proxyman" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Appium_logo.svg/512px-Appium_logo.svg.png" title="Appium" alt="appium" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Appium_logo.svg" title="Appium" alt="appium" width="40" height="40"/>&nbsp;  
   <img src="https://avatars.githubusercontent.com/u/9145886?s=200&v=4" title="Carina" alt="carina" width="40" height="40"/>&nbsp;
 </div>
 
