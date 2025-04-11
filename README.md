@@ -42,7 +42,7 @@ I love learning new technologies, especially those that can simplify my life or 
   <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/charles_proxy_macos_bigsur_icon_190302.png" title="Charles Proxy" alt="charles-proxy" width="40" height="40"/>&nbsp;
   <img src="https://www.megaleechers.com/storage/Fiddler-Everywhere-Icon.png" title="Fiddler" alt="fiddler" width="40" height="40"/>&nbsp;
   <img src="https://pbs.twimg.com/profile_images/1589614420766126080/slAIVDtr_400x400.jpg" title="Proxyman" alt="proxyman" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Appium_logo.svg" title="Appium" alt="appium" width="40" height="40"/>&nbsp;  
+  <img src="https://pbs.twimg.com/profile_images/1523262361676011520/07pPwA3a_400x400.png" title="Appium" alt="appium" width="40" height="40"/>&nbsp;  
   <img src="https://avatars.githubusercontent.com/u/9145886?s=200&v=4" title="Carina" alt="carina" width="40" height="40"/>&nbsp;
 </div>
 
@@ -55,7 +55,9 @@ I love learning new technologies, especially those that can simplify my life or 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="mongodb" width="40" height="40"/>&nbsp;
   <img src="https://mybatis.org/images/mybatis-logo.png" title="MyBatis" alt="mybatis" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="JDBC" alt="jdbc" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/valera-rozuvan/icons/master/png/mysql-workbench.png" title="MySQL Workbench" alt="mysql workbench" width="40" height="40"/>&nbsp;
+  <img src="https://www.mysqltutorial.org/wp-content/uploads/2018/03/MySQL-Workbench.png" title="MySQL Workbench" alt="mysql workbench" width="40" height="40"/>&nbsp;
+</div>
+  
 ---
 
 ### ✏️ Work with code:
