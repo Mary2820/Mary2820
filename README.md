@@ -28,7 +28,7 @@ I love learning new technologies, especially those that can simplify my life or 
   <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="Chrome DevTools" alt="devtools" width="40" height="40"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/7853266/44114706-9c72dd08-9fd1-11e8-8d9d-6d9d651c75ad.png" title="Postman" alt="postman" width="40" height="40"/>&nbsp;
   <img src="https://static0.smartbear.co/smartbearbrand/media/images/home/soapui-icon.svg" title="SoapUI" alt="soapui" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_fiddler_icon_130625.png" title="Fiddler" alt="fiddler" width="40" height="40"/>&nbsp;
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" title="Fiddler" alt="fiddler" width="40" height="40"/>&nbsp;  
   <img src="https://static-00.iconduck.com/assets.00/swagger-icon-512x512-1n7w9vay.png" title="Swagger" alt="swagger" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" title="Selenium" alt="selenium" width="40" height="40"/>&nbsp;
 </div>
