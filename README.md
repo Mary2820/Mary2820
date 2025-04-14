@@ -3,11 +3,11 @@
 ---
 
 ### 👨‍💻 About me:
-💻 QA Automation Engineer with hands-on experience in Web, API, and Mobile testing.
-⚙️ Skilled in Java, Selenium, Appium, Rest Assured, Jenkins, Azure DevOps, and CI/CD.
-📊 Strong background in test architecture, OOP, SQL, and Agile teamwork.
-🌍 Open to QA opportunities in Poland and across Europe.
-🔎 Currently building test frameworks and improving automation skills.
+💻 QA Automation Engineer with hands-on experience in Web, API, and Mobile testing.  
+⚙️ Skilled in Java, Selenium, Appium, Rest Assured, Jenkins, Azure DevOps, and CI/CD.  
+📊 Strong background in test architecture, OOP, SQL, and Agile teamwork.  
+🌍 Open to QA opportunities in Poland and across Europe.  
+🔎 Currently building test frameworks and improving automation skills.  
 
 📫 How to contact me:  [![LinkedIn Badge](https://img.shields.io/badge/-@marinadedul-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/marynadziadul/)  [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:mdedul2820@gmail.com)
 
