@@ -3,9 +3,11 @@
 ---
 
 ### 👨‍💻 About me:
-I am involved in the testing and routine tasks automation.  
-I have successfully completed a total of **200+** hours of QA training.  
-I love learning new technologies, especially those that can simplify my life or inspire me to do something new.
+💻 QA Automation Engineer with hands-on experience in Web, API, and Mobile testing.
+⚙️ Skilled in Java, Selenium, Appium, Rest Assured, Jenkins, Azure DevOps, and CI/CD.
+📊 Strong background in test architecture, OOP, SQL, and Agile teamwork.
+🌍 Open to QA opportunities in Poland and across Europe.
+🔎 Currently building test frameworks and improving automation skills.
 
 📫 How to contact me:  [![LinkedIn Badge](https://img.shields.io/badge/-@marinadedul-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/marynadziadul/)  [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:mdedul2820@gmail.com)
 
@@ -74,10 +76,13 @@ I love learning new technologies, especially those that can simplify my life or 
 
 ### 💻 Successfully completed courses:
 
-| Courses                       | Date              |
-|------------------------------|:-----------------:|
-| Udemy.com / Tester from Scratch | 06/2023 - 08/2023 |
-| Internship at Solvd, Inc.       | 10/2024 - 03/2025 |
+| Courses                                               | Date              |
+|-------------------------------------------------------|:-----------------:|
+| Udemy.com / Tester from Scratch                       | 06/2023 - 08/2023 |
+| Udemy.com / Python Test Automation (Pytest, Selenium) | 07/2023 - 09/2023 |
+| Udemy.com / Java + Selenium + TestNG                  | 09/2023 - 11/2023 |
+| Udemy.com / Azure DevOps & Jenkins for QA             | 11/2023 - 12/2023 |
+| Internship at Solvd, Inc.                             | 10/2024 - 03/2025 |
 
 ---
 
